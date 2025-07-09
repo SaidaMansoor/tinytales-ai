@@ -1,0 +1,15 @@
+ai-story-generator/
+├── main.py                 # Main Streamlit application
+├── requirements.txt        # Python dependencies
+├── config.py              # Configuration settings
+├── README.md              # This file
+├── src/                   # Source modules
+│   ├── __init__.py
+│   ├── story_generator.py # Core story generation logic
+│   ├── prompts.py         # Age-appropriate prompts
+│   ├── ui_components.py   # UI components and forms
+│   └── database.py        # Story storage and retrieval
+├── data/                  # Generated stories storage
+│   └── stories.json       # Story database
+|   └── story_counter.json # Keep track of the story count 
+└── exports/               # Exported story files
