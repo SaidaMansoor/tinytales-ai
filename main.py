@@ -8,7 +8,7 @@ from src.ui_components import render_story_form, display_story
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Kids Story Generator",
+    page_title="TinyTales AI",
     page_icon="🌟",
     layout="wide",
     initial_sidebar_state="expanded"
