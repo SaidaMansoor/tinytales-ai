@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 
 # Import our custom modules
-from src.groq_story import StoryGenerator
+from src.story_generator import StoryGenerator
 from src.database import save_story, load_stories
 from src.ui_components import render_story_form, display_story
 
