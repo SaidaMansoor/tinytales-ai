@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 def main():
-    st.title("AI Kids Story Generator")
+    st.title("TinyTales AI")
     st.markdown("Create magical stories for children with AI!")
 
     # Initialize session state
