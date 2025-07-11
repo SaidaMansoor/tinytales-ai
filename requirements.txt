@@ -4,3 +4,4 @@ pathlib2>=2.3.7
 groq
 pandas
 numpy
+google-generativeai
